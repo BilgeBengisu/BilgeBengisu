@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BilgeBengisu
 - 👀 I’m interested in Computer Science, Architecture, and Programming.
 - 💞️ I worked on web applications (Python, Flask), Cloud databases(javascript, Node-RED) and object oriented programming(Java)
-- 🌱 I’m currently learning Java, Vaadin, and C
+- 🌱 I’m currently practicing Python for Supervised Machine Learning, and Java for Data Structures with Object-Oriented Programming principles.
 - 📫 b.akyol26@ncf.edu
